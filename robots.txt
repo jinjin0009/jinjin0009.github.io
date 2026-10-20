@@ -1,0 +1,23 @@
+# jinjin0009.github.io - search engines and AI answer engines are welcome
+User-agent: *
+Allow: /
+
+# AI search / answer crawlers (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://jinjin0009.github.io/gamjatang/sitemap.xml
